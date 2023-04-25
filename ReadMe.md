@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estudando: Node.js e Android<br>Meus conhecimentos: Python (+ PySimpleGUI, tratamento de<br>erros e bibliotecas internas da própria linguagem), HTML/CSS<br>(bem superficial), JavaScript (básico) e um pouco de SQLite3,<br>MySQL e Swift (SwiftUI)
+🇧🇷 Localidade: Fortaleza-CE, Brasil<br><br>🧠 Conhecimentos:<br>        • Python (+ PySimpleGui, tratamento de erros e<br>        bibliotecas internas da própria linguagem)<br>        • JavaScript (básico)<br>        • HTML/CSS (bem superficial)<br>        • Um pouco de SQLite3, MySQL e Swift (SwiftUI)<br><br>📚 Estudando:<br>        • HTML/CSS (Bootstrap)<br>        • Node.js (NPM, Express.js)<br>        • Android (XML, Kotlin)<br><br>🎲 No tempo livre...:<br>        • 👨‍💻 Programação<br>        • 🎧 Música<br>        • 🎮 Jogos / 😏 Memes<br>        • 🗣 Conversa<br>        • 🔤 Inglês (às vezes)
 
 
 ## 🌐 Socials:
