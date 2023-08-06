@@ -12,8 +12,11 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
 ##
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JGabrielJ&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117" alt="João Gabriel's GitHub Stats"> &nbsp;
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielJ&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117" alt="João Gabriel's Most Used Languages">
+  <p align="center"><b> Visitors Count </b></p>
+  <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg"><br><br>
+
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JGabrielJ&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117" alt="João Gabriel's GitHub Stats"> &nbsp;
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielJ&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117" alt="João Gabriel's Most Used Languages">
 </div>
 
 ##
@@ -37,12 +40,7 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
 ##
 
 <div align="center">
-  <p align="center"><b> Visitors Count </b></p>
-  <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg">
-</div> <br>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/JGabrielJ/JGabrielJ/blob/output/github-contribution-grid-snake.svg)
+  [![João Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JGabrielJ&bg_color=0D1117&color=FFFFFF&line=7D6414&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
