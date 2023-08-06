@@ -41,6 +41,4 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
   <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg">
 </div> <br>
 
-<div align="center">
-  ![Commits Snake](https://github.com/JGabrielJ/JGabrielJ/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Commits Snake](https://github.com/JGabrielJ/JGabrielJ/blob/output/github-contribution-grid-snake.svg)
