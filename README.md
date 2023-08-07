@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+You’re+most+welcome!;How+are+you?+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil and I still live here. I’m currently attending the last year of high school in the Integrated Technical Course in Informatics at the Federal Institute of Ceará (IFCE).</h3>
 
@@ -15,8 +15,7 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
   <p align="center"><b> Visitors Count </b></p>
   <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg"><br><br>
 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=JGabrielJ&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0D1117" alt="João Gabriel's GitHub Stats"> &nbsp;
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielJ&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117" alt="João Gabriel's Most Used Languages">
+  [![João Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JGabrielJ&bg_color=0D1117&color=FFFFFF&line=7D6414&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ##
@@ -39,12 +38,4 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
   <h3 align="center"> Connect with me: </h3>
   <a align="center" href="mailto:gjacinto0707@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gjacinto0707@gmail.com"> </a>
   <a align="center" href="https://linkedin.com/in/joão-gabriel-jacinto-da-silva-a78397267" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin@joão-gabriel-jacinto-da-silva-a78397267"> </a>
-</div>
-
-##
-
-<div align="center">
-
-  [![João Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JGabrielJ&bg_color=0D1117&color=FFFFFF&line=7D6414&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
