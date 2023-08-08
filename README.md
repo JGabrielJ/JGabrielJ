@@ -13,9 +13,10 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
 
 <div align="center">
   <p align="center"><b> Visitors Count </b></p>
-  <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg"><br><br>
+  <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg" alt="João Gabriel's Visitors Count"><br><br>
 
-  [![João Gabriel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JGabrielJ&bg_color=0D1117&color=FFFFFF&line=7D6414&point=FFD900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <p align="center"><b> My Stats </b></p>
+  <img align="center" src="https://myreadme.vercel.app/api/embed/JGabrielJ?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="João Gabriel's GitHub Stats">
 </div>
 
 ##
