@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil and I still live here. I’m currently attending the last year of high school in the Integrated Technical Course in Informatics at the Federal Institute of Ceará (IFCE).</h3>
+My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil and I still live here. I’m currently attending the last year of high school in the Integrated Technical Course in Informatics at the Federal Institute of Ceará (IFCE).
 
 - 🔭 I’m currently working on **developing projects using Python**
 - 🌱 I’m currently learning **Python**
