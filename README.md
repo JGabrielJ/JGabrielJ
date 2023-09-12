@@ -2,8 +2,8 @@
 
 My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil and I still live here. I’m currently attending the last year of high school in the Integrated Technical Course in Informatics at the Federal Institute of Ceará (IFCE).
 
-- 🔭 I’m currently working on **developing projects using Python**
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on [**UxO Beta**](https://github.com/AJUMP-Corp/UxO-Beta)
+- 🌱 I’m currently learning **Python, C# + Unity**
 - 💬 Ask me about **Python, JavaScript, HTML/CSS**
 - 📫 How to reach me **gjacinto0707@gmail.com**
 - 📄 Know about my experiences [**Curriculum Lattes**](http://lattes.cnpq.br/5485294122897620)
