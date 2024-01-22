@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil and I still live here. I’m currently attending the last year of high school in the Integrated Technical Course in Informatics at the Federal Institute of Ceará (IFCE).
-
-- 🔭 I’m currently working on [**UxO Beta**](https://github.com/AJUMP-Corp/UxO-Beta)
-- 🌱 I’m currently learning **Python, C# + Unity**
+- 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
+- 🌱 I’m currently learning **Python, PySimpleGUI (framework)**
 - 💬 Ask me about **Python, JavaScript, HTML/CSS**
 - 📫 How to reach me **gjacinto0707@gmail.com**
 - 📄 Know about my experiences [**Curriculum Lattes**](http://lattes.cnpq.br/5485294122897620)
@@ -12,17 +10,14 @@ My name is João Gabriel, I’m 18 years old. I was born in Fortaleza-CE, Brazil
 ##
 
 <div align="center">
-  <p align="center"><b> Visitors Count </b></p>
-  <img align="center" src="https://profile-counter.glitch.me/{JGabrielJ}/count.svg" alt="João Gabriel's Visitors Count"><br><br>
-
-  <p align="center"><b> My Stats </b></p>
+  <h3 align="center"> My Stats </h3>
   <img align="center" src="https://myreadme.vercel.app/api/embed/JGabrielJ?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="João Gabriel's GitHub Stats">
 </div>
 
 ##
 
 <div align="center">
-  <h3 align="center"> Languages and Tools: </h3>
+  <h3 align="center"> Languages and Tools </h3>
   <a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a> &nbsp;
