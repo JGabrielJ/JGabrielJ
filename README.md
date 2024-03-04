@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
 - 🌱 I’m currently learning **Python, PySimpleGUI (framework)**
 - 💬 Ask me about **Python, JavaScript, HTML/CSS**
-- 📫 How to reach me **gjacinto0707@gmail.com**
-- 📄 Know about my experiences [**Curriculum Lattes**](http://lattes.cnpq.br/5485294122897620)
+- 📫 Get to know me through [**Instagram**](https://www.instagram.com/jgabrielj7/)
 - 👨‍💻 My hobbies are **chatting, music, programming and gaming**
 
 ##
@@ -25,6 +24,10 @@
   <a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"> </a> &nbsp;
+  <a align="center" href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"> </a> &nbsp;
+  <a align="center" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/kotlin/original.svg" alt="kotlin" width="40" height="40"> </a> &nbsp;
+  <a align="center" href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"> </a> &nbsp;
+  <a align="center" href="https://unity.com/pt" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"> </a>
 </div>
 
@@ -33,5 +36,5 @@
 <div align="center">
   <h3 align="center"> Connect with me: </h3>
   <a align="center" href="mailto:gjacinto0707@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gjacinto0707@gmail.com"> </a>
-  <a align="center" href="https://linkedin.com/in/joão-gabriel-jacinto-da-silva-a78397267" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin@joão-gabriel-jacinto-da-silva-a78397267"> </a>
+  <a align="center" href="https://www.linkedin.com/in/joão-gabriel-a78397267/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin@joão-gabriel"> </a>
 </div>
