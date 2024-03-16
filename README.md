@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
 - 🌱 I’m currently learning **Python, PySimpleGUI (framework)**
 - 💬 Ask me about **Python, JavaScript, HTML/CSS**
-- 📫 Get to know me through [**Instagram**](https://www.instagram.com/jgabrielj7/)
+- 📫 Get to know me through [**Instagram**](https://www.instagram.com/jgabrielj25/)
 - 👨‍💻 My hobbies are **chatting, music, programming and gaming**
 
 ##
