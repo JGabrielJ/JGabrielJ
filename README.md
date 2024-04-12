@@ -1,20 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<div id="title">
 
-- 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
-- 🌱 I’m currently learning **Python, tkinter (library)**
-- 💬 Ask me about **Python, JavaScript, HTML/CSS**
-- 👨‍💻 My hobbies are **chatting, music and programming**
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
+  
+  - 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
+  - 🌱 I’m currently learning **Python, tkinter (library)**
+  - 💬 Ask me about **Python, JavaScript, HTML/CSS**
+  - 👨‍💻 My hobbies are **chatting, music and programming**
+  - ⚡ Fun Fact: The **Five Nights at Freddy's** film was released in 2023, the same year in which the third game in the franchise takes place.
+
+</div>
 
 ##
 
-<div align="center">
+<div id="stats" align="center">
   <h3 align="center"> My Stats </h3>
   <img align="center" src="https://myreadme.vercel.app/api/embed/JGabrielJ?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="João Gabriel's GitHub Stats">
 </div>
 
 ##
 
-<div align="center">
+<div id="langs">
   <h3 align="center"> Languages and Tools </h3>
   <a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="40" height="40"> </a> &nbsp;
@@ -39,7 +44,7 @@
 
 ##
 
-<div align="center">
+<div id="social" align="center">
   <h3 align="center"> Connect with me: </h3>
   <a align="center" href="mailto:gjacinto0707@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gjacinto0707@gmail.com"> </a>
   <a align="center" href="https://www.linkedin.com/in/jgabrielj7" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin@joão-gabriel"> </a>
