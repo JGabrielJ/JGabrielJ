@@ -4,7 +4,7 @@
   
   - 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
   - 🌱 I’m currently learning **Python, tkinter (library)**
-  - 💬 Ask me about **Python, JavaScript, HTML/CSS**
+  - 💬 Ask me about **Python, HTML/CSS/JS, Node.js**
   - 👨‍💻 My hobbies are **chatting, music and programming**
   - ⚡ Fun Fact: The **Five Nights at Freddy's** movie was released in 2023, same year in which FNaF 3 takes place.
 
