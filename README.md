@@ -6,7 +6,7 @@
   - 🌱 I’m currently learning **Python, tkinter (library)**
   - 💬 Ask me about **Python, JavaScript, HTML/CSS**
   - 👨‍💻 My hobbies are **chatting, music and programming**
-  - ⚡ Fun Fact: The **Five Nights at Freddy's** film was released in 2023, same year in which FNaF 3 takes place.
+  - ⚡ Fun Fact: The **Five Nights at Freddy's** movie was released in 2023, same year in which FNaF 3 takes place.
 
 </div>
 
