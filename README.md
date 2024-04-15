@@ -6,7 +6,7 @@
   - 🌱 I’m currently learning **Python, tkinter (library)**
   - 💬 Ask me about **Python, JavaScript, HTML/CSS**
   - 👨‍💻 My hobbies are **chatting, music and programming**
-  - ⚡ Fun Fact: The **Five Nights at Freddy's** film was released in 2023, the same year in which the third game in the franchise takes place.
+  - ⚡ Fun Fact: The **Five Nights at Freddy's** film was released in 2023, same year in which FNaF 3 takes place.
 
 </div>
 
@@ -37,6 +37,7 @@
   <a align="center" href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/swift/original.svg" alt="swift" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/kotlin/original.svg" alt="kotlin" width="40" height="40"> </a> &nbsp;
+  <a align="center" href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/androidstudio/original.svg" alt="android-studio" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="csharp" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"> </a>
