@@ -37,5 +37,5 @@
   <h3 align="center"> Connect with me: </h3>
   <a align="center" href="mailto:gjacinto0707@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gjacinto0707@gmail.com"> </a>
   <a align="center" href="https://www.linkedin.com/in/jgabrielj7" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" alt="linkedin@joão-gabriel"> </a>
-  <a align="center" href="https://www.youtube.com/@jgabrielj77" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="discord@jgabrielj07"> </a>
+  <a align="center" href="https://discordapp.com/users/jgabrielj07" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="discord@jgabrielj07"> </a>
 </div>
