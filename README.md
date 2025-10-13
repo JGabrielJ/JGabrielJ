@@ -3,10 +3,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
   
   - 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
-  - 🌱 I’m currently learning **Python, tkinter (library)**
+  - 🌱 I’m currently learning **Python, tkinter, pygame**
   - 💬 Ask me about **Python, HTML/CSS/JS, Node.js**
   - 👨‍💻 My hobbies are **chatting, gaming and programming**
-  <!-- - ⚡ Fun Fact: The **Five Nights at Freddy's** movie was released in 2023, same year in which FNAF 3 takes place. -->
 
 </div>
 
@@ -37,6 +36,6 @@
 <div id="social" align="center">
   <h3 align="center"> Connect with me: </h3>
   <a align="center" href="mailto:gjacinto0707@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gjacinto0707@gmail.com"> </a>
-  <a align="center" href="https://www.linkedin.com/in/jgabrielj7" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin@joão-gabriel"> </a>
-  <a align="center" href="https://www.instagram.com/jgabrielj25/" target="_blank"> <img align="center" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram@jgabrielj25"> </a>
+  <a align="center" href="https://www.linkedin.com/in/jgabrielj7" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" alt="linkedin@joão-gabriel"> </a>
+  <a align="center" href="https://www.youtube.com/@jgabrielj77" target="_blank"> <img align="center" src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="discord@jgabrielj07"> </a>
 </div>
