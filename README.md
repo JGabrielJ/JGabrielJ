@@ -4,8 +4,9 @@
   
   - 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
   - 🌱 I’m currently learning **Python, tkinter, pygame**
-  - 💬 Ask me about **Python, HTML/CSS/JS, Node.js**
+  - 💬 Ask me about **Python, HTML5 / CSS3, JavaScript**
   - 👨‍💻 My hobbies are **chatting, gaming and programming**
+  - ⚡ Fun Fact: I love the complexity of The Universe and Liminal Spaces
 
 </div>
 
@@ -24,9 +25,6 @@
   <a align="center" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="sqlite3" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt="mongodb" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"> </a> &nbsp;
-  <a align="center" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/kotlin/original.svg" alt="kotlin" width="40" height="40"> </a> &nbsp;
-  <a align="center" href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" alt="xml" width="40" height="40"> </a> &nbsp;
-  <a align="center" href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/androidstudio/original.svg" alt="android-studio" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="csharp" width="40" height="40"> </a> &nbsp;
   <a align="center" href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"> </a>
 </div>
