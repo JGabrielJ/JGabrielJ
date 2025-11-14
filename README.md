@@ -10,7 +10,8 @@
 ##
 
 <h3 align="center"> Languages and Tools </h3>
-<a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="40" height="40"> </a> &nbsp;
+<a align="center" href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="40" height="40"> </a> &nbsp;
+<a align="center" href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/django/plain.svg" alt="django" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/git/original.svg" alt="git" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" alt="github" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%2342A5F5" alt="markdown" width="40" height="40"> </a> &nbsp;
@@ -18,13 +19,13 @@
 <a align="center" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="html5" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="css3" width="40" height="40"> </a> &nbsp;
-<a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="javascript" width="40" height="40"> </a> &nbsp;
-<a align="center" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="nodejs" width="40" height="40"> </a> &nbsp;
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="javascript" width="40" height="40"> </a> &nbsp;
+<a align="center" href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="nodejs" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="sqlite3" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt="mongodb" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/firebase/plain.svg" alt="firebase" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/visualstudio/plain.svg" alt="visualstudio" width="40" height="40"> </a> &nbsp;
-<a align="center" href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="csharp" width="40" height="40"> </a> &nbsp;
+<a align="center" href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/csharp/original.svg" alt="csharp" width="40" height="40"> </a> &nbsp;
 <a align="center" href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23FFFFFF" alt="unity" width="40" height="40"> </a>
 
 ##
