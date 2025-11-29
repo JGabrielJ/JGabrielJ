@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=06CFF9&size=35&center=true&vCenter=true&width=1000&lines=Hello!+How+are+you?+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/CalculadoraCoisas)
-- 🌱 I’m currently learning **Python, tkinter, pygame**
+- 🔭 I’m currently working on [**nothing**]()
+- 🌱 I’m currently learning **Python, pygame**
 - 💬 Ask me about **Python, HTML5 / CSS3, Django**
 - 👨‍💻 My hobbies are **chatting, gaming and programming**
 - ⚡ Fun Fact: I love the complexity of The Universe and Liminal Spaces
