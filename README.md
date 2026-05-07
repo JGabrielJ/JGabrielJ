@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=Welcome,%20I'm%20Gabriel!&fontColor=000000&fontSize=50&stroke=CCCC00&strokeWidth=1.3&animation=blink&height=150&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=Welcome,%20I'm%20Gabriel!&fontColor=000000&fontSize=50&fontAlignY=45&stroke=CCCC00&strokeWidth=1.3&animation=blink&height=150&section=header" width="100%" />
 </div>
 
 <div id="info">
@@ -62,11 +62,13 @@
 
 <br />
 
-<div id="conn" align="center">
+<div id="social" align="center">
   <h3>📫 Connect with me 📫</h3>
   <a href="mailto:gjacinto0707@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jgabrielj7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" /></a>
   <a href="https://discordapp.com/users/jgabrielj07" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&height=120&section=footer" /> -->
+<div id="footer" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=🠳%20Check%20out%20my%20projects%20🠳&fontColor=000000&fontSize=50&fontAlignY=75&stroke=FFFFFF&strokeWidth=1.3&animation=blinking&height=150&section=footer" width="100%" />
+</div>
