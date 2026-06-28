@@ -70,5 +70,5 @@
 </div>
 
 <div id="footer" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=🠳%20Check%20out%20my%20projects%20🠳&fontColor=000000&fontSize=50&fontAlignY=75&stroke=FFFFFF&strokeWidth=1.3&animation=blinking&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=⬇%20Check%20out%20my%20projects%20⬇&fontColor=000000&fontSize=50&fontAlignY=65&stroke=FFFFFF&strokeWidth=1.3&animation=blinking&height=150&section=footer" width="100%" />
 </div>
