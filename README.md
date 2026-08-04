@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=Welcome,%20I'm%20Gabriel!&fontColor=000000&fontSize=50&fontAlignY=45&stroke=CCCC00&strokeWidth=1.3&animation=blink&height=150&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&text=Welcome,%20I'm%20Gabriel!&fontColor=000000&fontSize=50&fontAlignY=40&stroke=CCCC00&strokeWidth=1.3&animation=blink&height=150&section=header" width="100%" />
 </div>
 
 <div id="info">
-  <p>🐍 20-year-old Python backend developer</p>
+  <p>🐍 Python backend developer</p>
   <p>⚙️ Building calculators and Django applications</p>
   <p>🎓 Computer Technician from Instituto Federal do Ceará</p>
 </div>
