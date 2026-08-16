@@ -24,37 +24,39 @@
     <tr id="row1" align="left">
       <td id="frontend">
         <p><strong>Front-end</strong></p>
-        <img src="https://skillicons.dev/icons?i=js" />
+        <img src="https://skills.syvixor.com/api/icons?i=javascript&perline=6&radius=40" />
       </td>
       <td id="backend">
         <p><strong>Back-end</strong></p>
-        <img src="https://skillicons.dev/icons?i=py,django,nodejs" />
+        <img src="https://skills.syvixor.com/api/icons?i=python,django,nodejs&perline=6&radius=40" />
       </td>
       <td id="styling">
         <p><strong>Markup & Styling</strong></p>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,md" />
+        <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,markdown&perline=6&radius=40" />
       </td>
     </tr>
     <tr id="row2" align="left">
       <td id="databases">
         <p><strong>Databases</strong></p>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+        <img src="https://skills.syvixor.com/api/icons?i=sqlite,mongodb,firebase&perline=6&radius=40" />
       </td>
       <td id="tools">
         <p><strong>Tools & Workflow</strong></p>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-        <img width="47" src="https://cdn.simpleicons.org/trello?viewbox=auto" />
+        <img src="https://skills.syvixor.com/api/icons?i=git,github,trello,visualstudiocode&perline=6&radius=40" />
       </td>
       <td id="sysenv">
         <p><strong>System & Environment</strong></p>
-        <img src="https://skillicons.dev/icons?i=linux,mint,bash,windows" />
+        <img src="https://skills.syvixor.com/api/icons?i=windows,linux,bash,android&perline=6&radius=40" />
       </td>
     </tr>
     <tr id="row3" align="left">
-      <td id="old" colspan=3>
+      <td id="ai">
+        <p><strong>AI Tools</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=chatgpt,githubcopilot,googlegemini&perline=6&radius=40" />
+      </td>
+      <td id="old" colspan=2>
         <p><strong>Used in the Past</strong></p>
-        <img width="500vw" src="https://skillicons.dev/icons?i=fastapi,selenium,sklearn,express,kotlin,androidstudio,swift,figma,cs,unity,visualstudio,pycharm,replit,firebase,sqlite,mysql,supabase,redis,latex,powershell,ubuntu,kali,vercel,azure&perline=12" />
-        <img width="29" src="https://cdn.simpleicons.org/clickup?viewbox=auto" />
+        <img src="https://skills.syvixor.com/api/icons?i=androidstudio,arduino,azure,blender,canva,clickup,csharp,docker,ejs,expressjs,fastapi,figma,githubactions,googlecolaboratory,kotlin,latex,macos,matplotlib,mysql,nmap,numpy,pandas,postgresql,psycopg,pycharm,pygame,pytest,redis,replit,scikitlearn,seaborn,supabase,render,swift,swiftui,unity,upstash,vercel,visualstudio,virtualbox,wireshark,xcode,xml,yaml&perline=12&radius=40" />
       </td>
     </tr>
   </table>
