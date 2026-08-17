@@ -38,25 +38,25 @@
     <tr id="row2" align="left">
       <td id="databases">
         <p><strong>Databases</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=sqlite,mongodb,firebase&perline=6&radius=40" />
+        <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql&perline=6&radius=40" />
       </td>
-      <td id="tools">
-        <p><strong>Tools & Workflow</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=git,github,trello,visualstudiocode&perline=6&radius=40" />
-      </td>
-      <td id="sysenv">
-        <p><strong>System & Environment</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=windows,linux,bash,android&perline=6&radius=40" />
-      </td>
-    </tr>
-    <tr id="row3" align="left">
       <td id="ai">
         <p><strong>AI Tools</strong></p>
         <img src="https://skills.syvixor.com/api/icons?i=chatgpt,githubcopilot,googlegemini&perline=6&radius=40" />
       </td>
+      <td id="sysenv">
+        <p><strong>Systems & Environment</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=windows,linux,bash,android&perline=6&radius=40" />
+      </td>
+    </tr>
+    <tr id="row3" align="left">
+      <td id="tools">
+        <p><strong>Tools & Workflow</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=git,github,trello,clickup,visualstudiocode,githubactions,latex&perline=4&radius=40" />
+      </td>
       <td id="old" colspan=2>
         <p><strong>Used in the Past</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=androidstudio,arduino,azure,blender,canva,clickup,csharp,docker,ejs,expressjs,fastapi,figma,githubactions,googlecolaboratory,kotlin,latex,macos,matplotlib,mysql,nmap,numpy,pandas,postgresql,psycopg,pycharm,pygame,pytest,redis,replit,scikitlearn,seaborn,supabase,render,swift,swiftui,unity,upstash,vercel,visualstudio,virtualbox,wireshark,xcode,xml,yaml&perline=12&radius=40" />
+        <img src="https://skills.syvixor.com/api/icons?i=pygame,fastapi,docker,mongodb,firebase,numpy,pandas,matplotlib,seaborn,scikitlearn,expressjs,kotlin,androidstudio,swift,swiftui,figma,xcode,csharp,unity,replit,pycharm,visualstudio&perline=11&radius=40" />
       </td>
     </tr>
   </table>
