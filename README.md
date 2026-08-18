@@ -3,8 +3,8 @@
 </div>
 
 <div id="info">
-  <p>🐍 Python backend developer</p>
-  <p>⚙️ Building calculators and Django applications</p>
+  <p>🐍 Python software developer</p>
+  <p>⚙️ Building calculators and Django websites</p>
   <p>🎓 Computer Technician from Instituto Federal do Ceará</p>
 </div>
 
@@ -22,42 +22,54 @@
   <h3>🛠️ Tech Stack 🛠️</h3>
   <table>
     <tr id="row1" align="left">
-      <td id="frontend">
+      <td id="langs">
+        <p><strong>Languages</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=python,javascript&perline=6&radius=40" />
+        <!-- typescript,c,cpp,lua,csharp,java -->
+      </td>
+      <!-- <td id="front">
         <p><strong>Front-end</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=javascript&perline=6&radius=40" />
-      </td>
-      <td id="backend">
+        <img src="https://skills.syvixor.com/api/icons?i=reactjs,reactnative,nextjs,vuejs,angularjs&perline=6&radius=40" />
+      </td> -->
+      <td id="back">
         <p><strong>Back-end</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=python,django,nodejs&perline=6&radius=40" />
+        <img src="https://skills.syvixor.com/api/icons?i=django,fastapi,nodejs,expressjs&perline=6&radius=40" />
       </td>
-      <td id="styling">
-        <p><strong>Markup & Styling</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,markdown&perline=6&radius=40" />
+      <!-- spring,dotnet -->
+      <td id="db">
+        <p><strong>Databases</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql,mongodb,firebase&perline=6&radius=40" />
       </td>
     </tr>
     <tr id="row2" align="left">
-      <td id="databases">
+      <td id="tools" colspan=2>
+        <p><strong>Tools & Workflow</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=git,github,githubactions,githubcopilot,chatgpt,visualstudiocode,docker,trello&perline=8&radius=40" />
+      </td>
+      <td id="style">
+        <p><strong>Markup & Styling</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,markdown&perline=6&radius=40" />
+      </td>
+      <!-- <td id="db">
         <p><strong>Databases</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql&perline=6&radius=40" />
-      </td>
-      <td id="ai">
-        <p><strong>AI Tools</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=chatgpt,githubcopilot,googlegemini&perline=6&radius=40" />
-      </td>
-      <td id="sysenv">
+        <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql,mongodb,firebase&perline=6&radius=40" />
+      </td> -->
+    </tr>
+    <tr id="row3" align="left">
+      <td id="sys">
         <p><strong>Systems & Environment</strong></p>
         <img src="https://skills.syvixor.com/api/icons?i=windows,linux,bash,android&perline=6&radius=40" />
       </td>
-    </tr>
-    <tr id="row3" align="left">
-      <td id="tools">
-        <p><strong>Tools & Workflow</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=git,github,trello,clickup,visualstudiocode,githubactions,latex&perline=4&radius=40" />
+      <td id="ml">
+        <p><strong>Data & ML</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,matplotlib,seaborn,scikitlearn&perline=6&radius=40" />
       </td>
-      <td id="old" colspan=2>
-        <p><strong>Used in the Past</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=pygame,fastapi,docker,mongodb,firebase,numpy,pandas,matplotlib,seaborn,scikitlearn,expressjs,kotlin,androidstudio,swift,swiftui,figma,xcode,csharp,unity,replit,pycharm,visualstudio&perline=11&radius=40" />
+      <!-- opencv -->
+      <td id="game">
+        <p><strong>Game Development</strong></p>
+        <img src="https://skills.syvixor.com/api/icons?i=pygame,unity&perline=6&radius=40" />
       </td>
+      <!-- stride,godot -->
     </tr>
   </table>
 </div>
