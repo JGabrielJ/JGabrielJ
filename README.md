@@ -3,15 +3,15 @@
 </div>
 
 <div id="info">
-  <p>🐍 Python software developer</p>
-  <p>⚙️ Building calculators and Django websites</p>
+  <p>👨‍💻 Python software developer</p>
+  <p>⚙️ Building Tkinter/Kivy calculators and Django syllabifiers</p>
   <p>🎓 Computer Technician from Instituto Federal do Ceará</p>
 </div>
 
 <br />
 
 <div id="stats" align="center">
-  <h3>👨‍💻 GitHub Statistics 👨‍💻</h3>
+  <h3>📊 GitHub Statistics 📊</h3>
   <img src="https://github-readme-stats-jgabrielj.vercel.app/api?username=JGabrielJ&include_all_commits=true&show_icons=true&rank_icon=github&theme=chartreuse-dark" height="180em" />
   <img src="https://github-readme-stats-jgabrielj.vercel.app/api/top-langs/?username=JGabrielJ&layout=compact&theme=vision-friendly-dark" height="180em" />
 </div>
