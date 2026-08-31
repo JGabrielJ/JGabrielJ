@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&text=Welcome,%20I'm%20Gabriel!&fontColor=000000&fontSize=50&fontAlignY=40&stroke=CCCC00&strokeWidth=1.3&animation=blink&height=150&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&text=Welcome,%20I'm%20Gabriel!&fontColor=000000&fontSize=50&fontAlignY=40&stroke=CCCC00&strokeWidth=1.5&animation=blink&height=150&section=header" width="100%" />
 </div>
 
 <div id="info">
@@ -84,5 +84,5 @@
 </div>
 
 <div id="footer" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&text=⬇%20Check%20my%20projects%20⬇&fontColor=000000&fontSize=50&fontAlignY=65&stroke=00CC00&strokeWidth=1.3&animation=blinking&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&text=⬇%20Check%20my%20projects%20⬇&fontColor=000000&fontSize=50&fontAlignY=65&stroke=00CC00&strokeWidth=1.5&animation=blinking&height=150&section=footer" width="100%" />
 </div>
