@@ -1,10 +1,13 @@
 ![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&section=header)
 
-English • [Português](/README_pt-br.md)
+[![EN-US](https://img.shields.io/badge/English-red?style=for-the-badge)](/README.md) &nbsp;
+[![PT-BR](https://img.shields.io/badge/Português-green?style=for-the-badge)](/README_pt-br.md)
 
 ## 👨‍💻 About Me
 
 Hi 👋, my name is Gabriel! I'm an IT technician, graduated from IFCE (Instituto Federal do Ceará), and I currently develop software independently. In addition, I enjoy reading, writing, calculations, and problem-solving. My favorite technologies at the moment are [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), and [**Kivy**](https://kivy.org/).
+
+📫 You can contact me via [**Gmail**](mailto:gjacinto0707@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/jgabrielj7)
 
 ## 🧠 Tech Stack
 
@@ -50,17 +53,12 @@ Hi 👋, my name is Gabriel! I'm an IT technician, graduated from IFCE (Institut
 
 ## 🧮 Featured Projects
 
-![Divisor de Sílabas 2.0](https://github-readme-stats-jgabrielj.vercel.app/api/pin?username=JGabrielJ&repo=divisor-silabas&theme=blue-green) &nbsp;
-![Calculadora de Coisas](https://github-readme-stats-jgabrielj.vercel.app/api/pin?username=JGabrielJ&repo=calculadora-coisas&theme=tokyonight)
+[![Divisor de Sílabas 2.0](https://github-readme-stats-jgabrielj.vercel.app/api/pin?username=JGabrielJ&repo=divisor-silabas&theme=blue-green)](https://github.com/JGabrielJ/divisor-silabas) &nbsp;
+[![Calculadora de Coisas](https://github-readme-stats-jgabrielj.vercel.app/api/pin?username=JGabrielJ&repo=calculadora-coisas&theme=tokyonight)](https://github.com/JGabrielJ/calculadora-coisas)
 
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats-jgabrielj.vercel.app/api?username=JGabrielJ&include_all_commits=true&show_icons=true&rank_icon=github&theme=chartreuse-dark) &nbsp;
 ![Most Used Languages](https://github-readme-stats-jgabrielj.vercel.app/api/top-langs/?username=JGabrielJ&layout=donut&hide=tex,swift,kotlin,jupyter%20notebook,makefile,gherkin&theme=vision-friendly-dark)
-
-## 📫 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjacinto0707@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/jgabrielj7)
 
 ![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&section=footer)
