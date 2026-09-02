@@ -4,7 +4,7 @@ English • [Português](/README_pt-br.md)
 
 ## 👨‍💻 About Me
 
-Hi 👋, my name is Gabriel! I'm an IT technician trained at IFCE (Instituto Federal do Ceará) and I currently develop software independently. In addition, I enjoy reading, writing, calculations, and problem-solving. My favorite technologies at the moment are [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), and [**Kivy**](https://kivy.org/).
+Hi 👋, my name is Gabriel! I'm an IT technician, graduated from IFCE (Instituto Federal do Ceará), and I currently develop software independently. In addition, I enjoy reading, writing, calculations, and problem-solving. My favorite technologies at the moment are [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), and [**Kivy**](https://kivy.org/).
 
 ## 🧠 Tech Stack
 
