@@ -1,71 +1,65 @@
 ![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0000AA,100:00AAAA&section=header)
 
+English • [Português](/README_pt-br.md)
+
 ## 👨‍💻 About Me
-Hi 👋, my name is Gabriel! I'm an IT technician trained at IFCE (Instituto Federal do Ceará) and I currently develop software independently.
-- 🔭 I'm currently working on [**Calculadora de Coisas**](https://github.com/JGabrielJ/calculadora-coisas) and [**Divisor de Sílabas 2.0**](https://github.com/JGabrielJ/divisor-silabas)
-- 🌱 I’m currently learning **Tkinter**, **Kivy** and **Django**
+
+Hi 👋, my name is Gabriel! I'm an IT technician trained at IFCE (Instituto Federal do Ceará) and I currently develop software independently. In addition, I enjoy reading, writing, calculations, and problem-solving. My favorite technologies at the moment are [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), and [**Kivy**](https://kivy.org/).
+
+## 🧠 Tech Stack
+
+#### 🌐 Languages
+
+![Langs](https://skills.syvixor.com/api/icons?i=python,javascript&perline=6&radius=40)
+<!-- typescript,c,cpp,lua,csharp,java -->
+
+<!-- #### 💻 Front-end
+
+![Front](https://skills.syvixor.com/api/icons?i=reactjs,reactnative,nextjs,vuejs,angularjs&perline=6&radius=40) -->
+
+#### ⚙️ Back-end
+
+![Back](https://skills.syvixor.com/api/icons?i=django,fastapi,nodejs,expressjs&perline=6&radius=40)
+<!-- spring,dotnet -->
+
+#### 🏦 Databases
+
+![DB](https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql,mongodb,firebase&perline=6&radius=40)
+
+#### 🛠️ Tools & Workflow
+
+![Tools](https://skills.syvixor.com/api/icons?i=git,github,githubactions,githubcopilot,chatgpt,visualstudiocode,docker,trello,figma&perline=12&radius=40)
+
+#### 🎨 Markup & Styling
+
+![Style](https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,markdown&perline=6&radius=40)
+
+#### 🐧 Systems & Environment
+
+![SysEnv](https://skills.syvixor.com/api/icons?i=windows,linux,bash,android&perline=6&radius=40)
+
+#### 🤖 Data Science & Machine Learning
+
+![Data & ML](https://skills.syvixor.com/api/icons?i=pytest,numpy,pandas,matplotlib,seaborn,scikitlearn&perline=12&radius=40)
+<!-- opencv -->
+
+#### 🕹️ Game Development
+
+![Game Dev](https://skills.syvixor.com/api/icons?i=pygame,unity&perline=6&radius=40)
+<!-- stride,godot -->
+
+## 🧮 Featured Projects
+
+![Divisor de Sílabas 2.0](https://github-readme-stats-jgabrielj.vercel.app/api/pin?username=JGabrielJ&repo=divisor-silabas&theme=blue-green) &nbsp;
+![Calculadora de Coisas](https://github-readme-stats-jgabrielj.vercel.app/api/pin?username=JGabrielJ&repo=calculadora-coisas&theme=tokyonight)
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats-jgabrielj.vercel.app/api?username=JGabrielJ&include_all_commits=true&show_icons=true&rank_icon=github&theme=chartreuse-dark) &nbsp;
-![Most Used Languages](https://github-readme-stats-jgabrielj.vercel.app/api/top-langs/?username=JGabrielJ&layout=compact&theme=vision-friendly-dark)
 
-<div id="stack">
-  <h3>🛠️ Tech Stack 🛠️</h3>
-  <table>
-    <tr id="row1" align="left">
-      <td id="langs">
-        <p><strong>Languages</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=python,javascript&perline=6&radius=40" />
-        <!-- typescript,c,cpp,lua,csharp,java -->
-      </td>
-      <!-- <td id="front">
-        <p><strong>Front-end</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=reactjs,reactnative,nextjs,vuejs,angularjs&perline=6&radius=40" />
-      </td> -->
-      <td id="back">
-        <p><strong>Back-end</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=django,fastapi,nodejs,expressjs&perline=6&radius=40" />
-      </td>
-      <!-- spring,dotnet -->
-      <td id="db">
-        <p><strong>Databases</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql,mongodb,firebase&perline=6&radius=40" />
-      </td>
-    </tr>
-    <tr id="row2" align="left">
-      <td id="tools" colspan=2>
-        <p><strong>Tools & Workflow</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=git,github,githubactions,githubcopilot,chatgpt,visualstudiocode,docker,trello&perline=8&radius=40" />
-      </td>
-      <td id="style">
-        <p><strong>Markup & Styling</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,markdown&perline=6&radius=40" />
-      </td>
-      <!-- <td id="db">
-        <p><strong>Databases</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=sqlite,postgresql,mysql,mongodb,firebase&perline=6&radius=40" />
-      </td> -->
-    </tr>
-    <tr id="row3" align="left">
-      <td id="sys">
-        <p><strong>Systems & Environment</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=windows,linux,bash,android&perline=6&radius=40" />
-      </td>
-      <td id="ml">
-        <p><strong>Data & ML</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,matplotlib,seaborn,scikitlearn&perline=6&radius=40" />
-      </td>
-      <!-- opencv -->
-      <td id="game">
-        <p><strong>Game Development</strong></p>
-        <img src="https://skills.syvixor.com/api/icons?i=pygame,unity&perline=6&radius=40" />
-      </td>
-      <!-- stride,godot -->
-    </tr>
-  </table>
-</div>
+![My GitHub Stats](https://github-readme-stats-jgabrielj.vercel.app/api?username=JGabrielJ&include_all_commits=true&show_icons=true&rank_icon=github&theme=chartreuse-dark) &nbsp;
+![Most Used Languages](https://github-readme-stats-jgabrielj.vercel.app/api/top-langs/?username=JGabrielJ&layout=donut&hide=tex,swift,kotlin,jupyter%20notebook,makefile,gherkin&theme=vision-friendly-dark)
 
 ## 📫 Contact Me
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gjacinto0707@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/jgabrielj7)
 
