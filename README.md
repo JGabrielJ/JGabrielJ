@@ -7,7 +7,7 @@
 
 Hi 👋, my name is Gabriel! I'm an IT technician, graduated from IFCE (Instituto Federal do Ceará), and I currently develop software independently. In addition, I enjoy reading, writing, calculations, and problem-solving. My favorite technologies at the moment are [**Python**](https://www.python.org/) and [**Django**](https://www.djangoproject.com/).
 
-- 🔭 I'm currently working on [**Divisor de Sílabas 2.0**](https://github.com/JGabrielJ/divisor-silabas) and [**Calculadora de Coisas**](https://github.com/JGabrielJ/calculadora-coisas)
+- 🔭 I'm currently developing [**Divisor de Sílabas 2.0**](https://github.com/JGabrielJ/divisor-silabas) and [**Calculadora de Coisas**](https://github.com/JGabrielJ/calculadora-coisas)
 - 🌱 I'm currently learning [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), and [**Kivy**](https://kivy.org/)
 - 📫 You can contact me via [**Gmail**](mailto:gjacinto0707@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/jgabrielj7)
 
