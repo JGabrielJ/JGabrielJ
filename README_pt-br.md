@@ -5,9 +5,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá 👋, me chamo Gabriel! Sou técnico em informática formado pelo IFCE (Instituto Federal do Ceará) e atualmente desenvolvo softwares de forma independente. Além disso, gosto de ler, escrever, realizar cálculos e resolver problemas. Minhas tecnologias favoritas no momento são [**Python**](https://www.python.org/), [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), e [**Kivy**](https://kivy.org/).
+Olá 👋, me chamo Gabriel! Sou técnico em informática formado pelo IFCE (Instituto Federal do Ceará) e atualmente desenvolvo softwares de forma independente. Além disso, gosto de ler, escrever, realizar cálculos e resolver problemas. Minhas tecnologias favoritas no momento são [**Python**](https://www.python.org/) e [**Django**](https://www.djangoproject.com/).
 
-📫 Você pode entrar em contato comigo atráves do [**Gmail**](mailto:gjacinto0707@gmail.com) ou [**LinkedIn**](https://www.linkedin.com/in/jgabrielj7)
+- 🔭 Atualmente estou desenvolvendo [**Divisor de Sílabas 2.0**](https://github.com/JGabrielJ/divisor-silabas) e [**Calculadora de Coisas**](https://github.com/JGabrielJ/calculadora-coisas)
+- 🌱 Atualmente estou aprendendo [**Django**](https://www.djangoproject.com/), [**Tkinter**](https://docs.python.org/3/library/tkinter.html), e [**Kivy**](https://kivy.org/)
+- 📫 Você pode entrar em contato comigo atráves do [**Gmail**](mailto:gjacinto0707@gmail.com) ou [**LinkedIn**](https://www.linkedin.com/in/jgabrielj7)
 
 ## 🧠 Tecnologias utilizadas
 
